@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Deity remix",
+		"baseHappiness": 9,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"unitSupplyBase": 5,
+		"unitSupplyPerCity": 2,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0,
+		"barbarianSpawnDelay": 0,
+		"playerBonusStartingUnits": [],
+    "aiDifficultyLevel": "Chieftain",
+		"aiCityGrowthModifier": 0.5,
+		"aiUnitCostModifier": 0.4,
+		"aiBuildingCostModifier": 0.4,
+		"aiWonderCostModifier": 1,
+		"aiBuildingMaintenanceModifier": 0.5,
+		"aiUnitMaintenanceModifier": 0.5,
+		"aiUnitSupplyModifier": 0.6,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": ["Settler", "Worker", "Scout","Era Starting Unit"],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 0.8,
+		"aisExchangeTechs": true,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 25
+	}
+]
