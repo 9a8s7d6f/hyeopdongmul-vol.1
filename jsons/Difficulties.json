@@ -16,7 +16,7 @@
     	"aiDifficultyLevel": "Chieftain",
 		"aiCityGrowthModifier": 0.55,
 		"aiUnitCostModifier": 0.45,
-		"aiBuildingCostModifier": 0.73,
+		"aiBuildingCostModifier": 0.75,
 		"aiWonderCostModifier": 1,
 		"aiBuildingMaintenanceModifier": 0.5,
 		"aiUnitMaintenanceModifier": 0.4,
